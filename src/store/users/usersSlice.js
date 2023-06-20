@@ -12,5 +12,4 @@ const usersSlice = createSlice({
   extraReducers: {},
 });
 
-
-export default usersSlice.reducer
+export default usersSlice.reducer;
